@@ -23,7 +23,7 @@ REST API for expense management with JWT authentication.
 
 ### 1. Clone & Setup
 ```bash
-git clone <repo-url>
+git clone https://github.com/yahyoHakimov/expense-tracker.git
 cd expense-tracker
 
 # Create .env file
